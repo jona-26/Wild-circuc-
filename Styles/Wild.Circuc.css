@@ -1,0 +1,186 @@
+/* Afin de valider ton code CSS, clic sur la petite flèche en haut à droite de cette fenêtre. Pour rappel, tu peux jeter un oeil par ici pour en savoir un peu plus: https://blog.codepen.io/2017/10/11/analyze-css-now-using-stylelint/ */
+
+/* Ecris ici ton code CSS */
+
+body {
+	font-family: 'Amatic SC', cursive;
+	background-image: url("https://images.wallpaperscraft.com/image/clown_girl_black_background_80312_1920x1080.jpg");
+	background-attachment: fixed;
+	background-position: 100% 100%;
+	color: white;
+}
+#head {
+	background-color: black;
+	text-align: center;
+	Position: relative;
+	height: 100px;
+	padding: 0px 100px 0px 100px;
+	margin: 80px;
+	border-style: solid;
+	border-color: blue;
+	border-radius: 20px;
+	box-shadow: 0px 0px 100px blue;
+	border-width: 2px;
+}
+#menu {
+	list-style-type: none;
+	display: flex;
+	font-size: 25px;
+	font-weight: bold;
+	justify-content: space-around;
+	padding: 10px;
+	width: 100%;
+}
+h1 {
+	color: orange;
+	font-size: 100px;
+	text-align: left;
+	text-shadow: 5px 5px 15px red;
+}
+h2 {
+	color: red;
+	font-size: 60px;
+	font-weight: bold;
+	text-align: left;
+	list-style-type: none;
+	text-shadow: 5px 5px 15px blue;
+}
+h3 {
+	color: red;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	list-style-type: none;
+}
+h4 {
+	color: orange;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	text-decoration: underline;
+}
+#laught {
+	color: orange;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	background-color: black;
+	display: inline-block;
+	position: relative;
+	left: 100px;
+	width: 300px;
+	padding: 50px 60px 20px 30px;
+	border-radius: 20px;
+	box-shadow: 2px 2px 30px orange;
+	border: orange;
+	border-style: solid;
+}
+#dream {
+	color: orange;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	background-color: black;
+	display: inline-block;
+	position: relative;
+	left: 300px;
+	top: 18px;
+	width: 300px;
+	padding: 40px 60px 1px 30px;
+	border-radius: 20px;
+	box-shadow: 0px 0px 30px orange;
+	border: orange;
+	border-style: solid;
+}
+#marvel {
+	color: orange;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	background-color: black;
+	display: inline-block;
+	position: relative;
+	left: 500px;
+	width: 300px;
+	padding: 50px 60px 20px 30px;
+	border-radius: 20px;
+	box-shadow: 0px 0px 30px orange;
+	border: orange;
+	border-style: solid;
+}
+#class {
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 10px;
+}
+#date {
+	color: green;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 10px;
+}
+#para1 {
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 10px;
+}
+caption {
+	color: green;
+	text-align: left;
+	font-size: 40px;
+	font-weight: bold;
+}
+table {
+	border-collapse: collapse;
+	margin: auto;
+	font-size: 35px;
+	margin-bottom: 10%;
+	border-radius: 0px;
+	box-shadow: 0px 0px 200px blue;
+	border color: white;
+	border-style: solid;
+}
+td {
+	color: green;
+	text-align: center;
+	background-color: black;
+	padding: 10px;
+	border: 1px solid white;
+}
+th {
+	color: orange;
+	text-align: center;
+	background-color: black;
+	padding: 10px;
+	border: 1px solid white;
+}
+#contact {
+	color: white;
+	font-size: 20px;
+	margin: 10px;
+}
+#end {
+	font-family: 'Amatic SC', cursive;
+	color: green;
+	font-weight: bold;
+	font-size: 20px;
+}
+ul {
+	list-style-type: none;
+}
+#mail {
+	color: red;
+	font-weight: bold;
+	background-image: url("https://planete-tourisme.net/wp-content/uploads/2017/05/cracheur-feu.jpg");
+	background-repeat: no-repeat;
+	background-position: 100% 90%;
+	padding: 0px 0px 0px 0px;
+	margin: 30px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 50px white;
+	border-width: 1px;
+	border-style: solid;
+	border-color: white;
+}
